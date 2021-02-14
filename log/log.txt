@@ -1,0 +1,4252 @@
+Fault:01-03-2020 19:30:27 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:27 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:27 - Не верное имя файла для подключения - core/user/controller/ImagesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:27 - Class core\user\controller\ImagesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:27 - Не верное имя файла для подключения - core/user/controller/TemplateController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:27 - Class core\user\controller\TemplateController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:28 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:32 - Не верное имя файла для подключения - core/admin/controller/AdminController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:32 - Class core\admin\controller\AdminController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:39 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:39 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:39 - Не верное имя файла для подключения - core/user/controller/TemplateController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:39 - Class core\user\controller\TemplateController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:39 - Не верное имя файла для подключения - core/user/controller/ImagesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:30:39 - Class core\user\controller\ImagesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:30:39 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:43:43 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:43:43 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:43:43 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:44:41 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:44:41 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:44:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:48:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:48:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:48:16 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:48:39 - Не верное имя файла для подключения - core/admin/controller/AddController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:48:39 - Class core\admin\controller\AddController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:48:40 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:48:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:48:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:48:42 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:50:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:50:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:50:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 19:50:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 19:50:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 22:08:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:08:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 22:08:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 55
+
+Fault:01-03-2020 22:33:56 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:33:56 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:34:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:27 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:34:27 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:27 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:31 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:34:31 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:31 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:34:34 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:34:34 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:36:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:10 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:36:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:52 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:36:52 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:53 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:36:53 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:36:54 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:39:11 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:39:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:42:11 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:42:11 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:42:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:42:19 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:42:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:42:30 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:42:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:42:32 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:42:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:44:57 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:44:57 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:44:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:19 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:46:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:24 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:46:25 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:26 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:46:26 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:27 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:33 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:46:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:35 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:46:35 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:46:35 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:03 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:47:03 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:03 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:47:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:17 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:19 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:47:19 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:29 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:47:29 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:47:29 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:48:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:48:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:48:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:49:13 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:49:13 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:49:14 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:49:56 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:49:56 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:49:57 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:49:57 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:49:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:50:13 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:01-03-2020 22:50:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:50:59 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 22:50:59 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 22:51:00 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:26:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 23:26:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:26:10 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:26:11 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-03-2020 23:26:11 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:26:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:27:58 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:29:37 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:01-03-2020 23:30:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:44:41 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:44:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:45:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:48:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:52:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:53:07 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:53:09 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:53:10 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:53:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:53:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:53:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:58:32 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:59:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 21:59:51 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:07-03-2020 21:59:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 22:01:10 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:07-03-2020 22:01:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 22:07:59 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:07-03-2020 22:08:03 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:07-03-2020 22:08:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 22:08:12 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:07-03-2020 22:08:13 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 22:11:14 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 22:25:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:07-03-2020 22:38:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 13:55:40 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 14:37:37 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 15:45:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 15:45:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 15:50:50 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 16:00:56 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 16:45:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 16:50:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 16:52:03 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 17:23:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 17:23:26 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:09-03-2020 17:23:26 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 17:25:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 17:57:13 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 17:57:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:09:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:09:35 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:10:27 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:11:49 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:15:02 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:15:54 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:24:16 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:42:00 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:45:15 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:47:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:50:45 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 18:50:58 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 19:20:56 - Отсутствует шаблон - core/admin/view/add
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 115
+
+Fault:09-03-2020 19:20:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 21:21:38 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 21:23:08 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 21:24:26 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:09-03-2020 21:26:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 16:40:19 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 19:38:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 19:41:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 19:43:57 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:14-03-2020 19:43:57 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 19:43:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 21:46:16 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 22:08:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 22:14:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 22:16:32 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:37:26 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:46:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:48:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:49:15 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:49:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:51:05 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:51:25 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:14-03-2020 23:56:39 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:00:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:01:37 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:03:32 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:06:02 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:06:05 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:06:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:07:49 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:11:31 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 0:12:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:00 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:01 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:09:01 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:01 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:09:01 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:01 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:09:01 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:01 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:09:01 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:01 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:09:01 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:09:01 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:14 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:10:14 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:14 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:10:14 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:14 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:10:14 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:14 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:10:14 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:14 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:10:14 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:14 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:10:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:10:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:14:49 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:14:49 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:14:50 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:12 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:15:12 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:12 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:13 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:15:13 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:14 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:15:14 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:14 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:21 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:15:21 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:15:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:20:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:20:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:20:47 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:20:57 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:20:57 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:20:57 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:20:59 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:20:59 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:00 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:21:00 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:00 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:21:00 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:00 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:21:00 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:00 - Не верное имя файла для подключения - core/user/controller/UserfilesController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:21:00 - Class core\user\controller\UserfilesController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:00 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:01 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:21:01 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:02 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:21:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:21:07 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:49:14 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 13:49:14 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 13:49:14 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 14:05:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 14:11:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:06:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:06:24 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:06:24 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:06:24 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:11:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:11:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:11:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:21:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:21:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:21:08 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:26:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:26:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:26:47 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:41:45 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:41:45 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:41:45 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:41:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:41:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:41:47 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:42:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:42:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:42:36 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:43:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:43:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:43:10 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:43:12 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:43:12 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:43:12 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:43:46 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:43:46 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:43:46 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:59:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 18:59:06 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 18:59:06 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:00:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:00:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:00:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:02:59 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:02:59 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:02:59 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:03:13 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:03:13 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:03:14 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:03:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:03:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:03:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:05:34 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:05:34 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:05:34 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:05:55 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:05:55 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:05:55 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:10:03 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:10:03 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:10:03 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:10:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:10:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:10:17 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:12:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:12:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:12:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:13:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:13:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:13:17 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:13:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:13:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:13:40 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:15:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:15:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:15:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:15:34 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:15:34 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:15:35 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:15:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:15:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:15:40 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:16:05 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:16:05 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:16:05 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:16:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:16:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:16:16 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:18:30 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:18:30 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:18:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:19:30 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 19:19:30 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 19:19:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 21:31:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 21:31:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 21:31:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 21:49:33 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 21:49:33 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 21:49:35 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 21:53:56 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 21:53:56 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 21:53:56 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:02:52 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 22:02:52 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:02:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:03:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 22:03:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:03:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:03:09 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 22:03:09 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:03:09 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:16:53 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:16:56 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 22:16:56 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:16:56 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:40:55 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:52:39 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 22:52:39 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:52:39 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:53:00 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:15-03-2020 22:53:00 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:15-03-2020 22:53:00 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:57:55 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:57:55 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 20:57:55 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:57:55 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:12 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 20:58:12 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:12 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 20:58:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:16 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 20:58:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:21 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 20:58:21 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 20:58:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 20:58:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:32:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:36:28 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:36:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:36:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:36:47 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:40:00 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:40:49 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:40:49 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:40:49 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:45:21 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:45:21 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:45:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:45:29 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:45:29 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:45:29 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:45:46 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:45:46 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:45:46 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:47:31 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:47:31 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:47:31 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:48:03 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:48:03 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:48:03 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:49:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:49:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:49:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:49:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:49:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:49:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:49:50 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:50:27 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:50:27 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:50:27 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:59:12 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:59:12 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:59:12 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:59:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 21:59:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 21:59:42 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:00:19 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:00:19 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:00:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:01:30 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:01:30 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:01:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:01:52 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:01:52 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:01:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:03:33 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:03:33 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:03:34 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:04:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:04:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:04:42 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:05:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:05:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:05:54 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:06:03 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:06:03 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:06:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:06:17 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:06:17 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:06:17 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:08:09 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:08:09 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:08:09 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:08:53 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:08:53 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:08:54 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:23:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:23:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:23:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:25:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-03-2020 22:25:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:17-03-2020 22:25:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 20:37:30 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 20:37:30 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 20:37:30 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 20:37:31 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 20:37:31 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 20:37:32 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:08:41 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:08:41 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:08:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:09:46 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:09:46 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:09:46 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:10:08 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:06 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:06 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:32 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:32 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:32 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:44 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:44 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:46 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:46 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:46 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:48 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:48 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:48 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:49 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:49 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:49 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:53 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:13:53 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:13:53 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:14:09 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:14:09 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:14:09 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:14:48 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:14:48 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:14:48 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:14:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:14:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:14:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:15:45 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 57
+
+Fault:27-03-2020 22:23:33 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:23:33 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:23:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:26:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:26:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:26:07 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:26:12 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:26:12 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:26:12 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:30:01 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:30:01 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:30:01 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:30:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:30:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:30:05 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:30:29 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:30:29 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:30:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:32:11 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:32:11 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:32:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:34:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:34:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:34:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:35:21 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:35:21 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:35:21 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:37:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:37:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:37:08 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:37:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:37:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:37:10 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:37:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:27-03-2020 22:37:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:27-03-2020 22:37:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:28:55 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:28:55 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:28:55 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:28:56 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:29:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:29:06 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:29:06 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:29:11 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:29:11 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:29:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:39:41 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:39:44 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:39:44 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:39:44 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:44:27 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:44:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:44:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:44:48 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:44:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:44:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:44:50 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:46:02 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:46:02 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:46:02 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:46:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:46:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:46:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:49:58 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:50:05 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:50:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:50:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:50:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:50:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:52:33 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:52:33 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:52:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:52:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:52:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:52:36 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:52:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:52:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:52:51 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:54:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:54:06 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:54:06 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:54:25 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:54:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:28-03-2020 15:54:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:28-03-2020 15:54:40 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:53:22 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:53:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 18:53:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:53:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:54:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 18:54:06 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:54:07 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:57:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 18:57:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:57:20 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:57:23 - Не верное имя файла для подключения - core/admin/controller/EditController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 18:57:23 - Class core\admin\controller\EditController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 18:57:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:29 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 19:17:29 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:29 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:30 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 19:17:30 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:30 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:31 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 19:17:31 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:31 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 19:17:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 19:17:55 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 20:38:33 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 20:38:33 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 20:38:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 20:38:43 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:29-03-2020 20:38:43 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:29-03-2020 20:38:43 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 20:44:09 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 20:44:10 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 20:44:19 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 20:45:24 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 20:45:24 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 20:45:24 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 20:47:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:21:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:21:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:21:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:21:36 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:22:25 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:22:25 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:22:25 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:23:11 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:23:11 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:23:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:26:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:26:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:26:42 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:27:01 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:27:01 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:27:01 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:31:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:31:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:31:18 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:42:54 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:05 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:43:05 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:06 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:43:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:15 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:43 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:43:43 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:43 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:52 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 21:43:52 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 21:43:52 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 23:02:26 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:01-04-2020 23:02:26 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:01-04-2020 23:02:27 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:49:42 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:49:43 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:04-04-2020 22:49:43 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:49:43 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:50:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:04-04-2020 22:50:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:50:11 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:51:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:04-04-2020 22:51:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:51:04 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:51:05 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:04-04-2020 22:51:05 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 22:51:05 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:04-04-2020 23:14:13 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:55:32 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:55:34 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 20:55:34 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:55:34 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:56:55 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:59:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 20:59:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:59:07 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:59:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 20:59:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:59:08 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:59:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 20:59:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 20:59:23 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:10:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:10:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:10:15 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:11:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:11:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:11:42 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:12:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:08 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:22 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:33 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:12:33 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:33 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:35 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:12:35 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:35 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:12:46 - Class core\user\controller\Favicon.icoController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:21:12 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:21:12 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:21:13 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:21:13 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:21:25 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:21:25 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:24:13 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:24:13 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:24:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:24:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:05-04-2020 21:56:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:05-04-2020 21:56:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:01:02 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:01:02 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:01:02 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:01:06 - Method core\admin\controller\CreatesitemapController::request() does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:02:05 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:02:05 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:02:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:02:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:03:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:03:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:04:44 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:04:44 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:04:45 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:04:45 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:05:17 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:05:17 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:05:20 - Не верное имя файла для подключения - core/user/controller/CustomerController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:05:20 - Class core\user\controller\CustomerController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:05:20 - Не верное имя файла для подключения - core/user/controller/ApixController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:05:20 - Class core\user\controller\ApixController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:05:20 - Не верное имя файла для подключения - core/user/controller/ApixController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:05:20 - Class core\user\controller\ApixController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:05:27 - Не верное имя файла для подключения - core/user/controller/_blocksController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:05:27 - Class core\user\controller\_blocksController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:22:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:22:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 21:28:09 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 21:28:09 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 22:40:03 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 22:40:03 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 22:40:13 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 22:40:13 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 22:40:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 22:40:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 22:40:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 22:40:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 22:41:16 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 22:41:16 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 23:29:57 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 23:29:57 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 23:30:01 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 23:30:01 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:06-04-2020 23:30:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:06-04-2020 23:30:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:07-04-2020 21:42:45 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:07-04-2020 22:32:02 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:07-04-2020 22:32:02 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:07-04-2020 22:32:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:07-04-2020 22:32:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:07-04-2020 22:32:28 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:07-04-2020 22:32:28 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:11-04-2020 16:50:10 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:11-04-2020 16:50:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:11-04-2020 16:50:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:12-04-2020 13:51:55 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:12-04-2020 13:51:56 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:12-04-2020 13:51:56 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:12-04-2020 18:57:34 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:12-04-2020 18:57:34 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:12-04-2020 19:18:39 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:12-04-2020 19:18:39 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:12-04-2020 19:22:56 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:12-04-2020 19:22:56 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:39:35 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:39:35 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:39:35 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:45:05 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:45:05 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:49:55 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:49:55 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:49:56 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:49:56 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:50:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:50:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:51:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:51:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:13-04-2020 22:52:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:13-04-2020 22:52:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:14-04-2020 23:13:37 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:14-04-2020 23:13:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:14-04-2020 23:13:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:14-04-2020 23:13:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:14-04-2020 23:13:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:14-04-2020 23:13:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:14-04-2020 23:13:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 59
+
+Fault:16-04-2020 23:55:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:16-04-2020 23:55:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 0:01:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 0:01:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 0:01:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 0:01:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 0:01:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 0:01:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 0:01:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 0:01:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:10:37 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:10:38 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:10:38 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:10:38 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:10:38 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:10:38 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:10:38 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:10:38 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:10:38 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:11:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:11:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:31:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:31:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 19:32:35 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 19:32:35 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:10:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:10:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:12:04 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:12:04 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:13:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:13:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:13:59 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:13:59 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:17:26 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:17:26 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:18:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:18:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:19:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:19:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:19:17 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:19:17 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:19:21 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:19:21 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:28:28 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:28:28 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:28:31 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:28:31 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:28:45 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:28:45 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:29:06 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:29:06 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:36:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:36:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:37:07 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:37:07 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:37:09 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:37:09 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:38:09 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:38:09 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:38:11 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:38:11 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:38:14 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:38:14 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:42:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:42:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:53:05 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:53:05 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:53:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:53:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:54:03 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:54:03 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:54:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:54:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:55:44 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:55:44 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 21:55:53 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 21:55:53 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:06:22 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:06:22 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:06:49 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:06:49 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:13:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:13:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:18:49 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:18:49 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:18:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:18:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:22:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:22:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:22:51 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:22:51 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:23:27 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:23:27 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:23:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:23:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:24:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:24:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:27:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:27:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:32:23 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:32:23 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:34:47 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:34:47 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:36:28 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:36:28 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:37:34 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:37:34 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:38:38 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:38:38 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:38:48 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:38:48 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:39:18 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:39:18 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:39:34 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:39:34 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:17-04-2020 22:40:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:17-04-2020 22:40:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:18:32 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:18:32 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:18:32 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:18:32 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:18:32 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:18:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:18:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:19:57 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:19:57 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:20:08 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:20:08 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:20:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:20:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:26:41 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:26:41 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:26:45 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:26:45 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:29:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:29:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:37:28 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:37:28 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:38:50 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:38:50 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:41:48 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:41:48 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:42:28 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:42:28 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:45:39 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:45:39 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:47:29 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:47:29 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:49:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:49:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 13:51:40 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 13:51:40 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:02:46 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:02:46 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:05:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:05:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:06:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:06:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:21:25 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:21:25 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:21:41 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:21:41 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:47:58 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:47:58 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:50:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:50:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:54:36 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:54:36 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:57:42 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:57:42 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 14:57:53 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 14:57:53 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 15:00:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 15:00:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 15:00:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 15:00:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 17:49:21 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 17:49:21 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 17:49:32 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 17:49:32 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:09:49 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:09:49 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:10:56 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:10:56 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:12:52 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:12:52 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:13:26 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:13:26 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:21:02 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:21:02 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:30:00 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:30:00 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 19:30:10 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 19:30:10 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 20:51:01 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 20:51:01 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 20:55:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 20:55:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 20:55:25 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 20:55:25 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 21:20:15 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 21:20:15 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:18-04-2020 21:24:54 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:18-04-2020 21:24:54 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:19-04-2020 18:23:48 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:19-04-2020 18:23:48 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:19-04-2020 18:23:48 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:19-04-2020 18:23:48 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:19-04-2020 18:23:48 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:20-04-2020 21:25:20 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:20-04-2020 21:25:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:20-04-2020 21:25:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:20-04-2020 21:25:20 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:20-04-2020 21:25:20 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:22-04-2020 20:24:27 - Class core\user\controller\Robots.txtController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+
+Fault:22-04-2020 20:24:37 - Не верное имя файла для подключения - core/user/controller/CoreController
+file W:\domains\im.my\core\base\settings\internal_settings.php
+In line 36
+
+Fault:22-04-2020 20:24:37 - Class core\user\controller\CoreController does not exist
+file W:\domains\im.my\core\base\controller\BaseController.php
+In line 60
+

@@ -1,0 +1,112 @@
+Fault:29-02-2020 17:24:13 - Ошибка в SQL запросе: SHOW COLUMNS FROM information - 1146 Table 'im.information' doesn't exist
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:01-03-2020 12:13:17 - Ошибка в SQL запросе: SHOW COLUMNS FROM settings - 1146 Table 'im.settings' doesn't exist
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:01-03-2020 12:13:17 - Ошибка в SQL запросе: SHOW COLUMNS FROM settings - 1146 Table 'im.settings' doesn't exist
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:01-03-2020 12:15:42 - Ошибка в SQL запросе: SHOW COLUMNS FROM settings - 1146 Table 'im.settings' doesn't exist
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:44:40 - Ошибка в SQL запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME
+                  FROM information_schema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SCHEMA = 'im' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 4
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:45:21 - Ошибка в SQL запросе: SELECT COLUMN_NAME, REFERENCED_TABLE_NAME, REFERENCED_COLUMN_NAME
+                  FROM information_schema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SCHEMA = 'im' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null  - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 4
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:48:51 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:52:18 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:53:06 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:53:09 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:53:10 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:53:18 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:53:19 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:07-03-2020 21:53:21 - Ошибка в SQL запросе: SELECT articles.idas id,articles.name FROM articles     - 1054 Unknown column 'articles.idas' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:09-03-2020 15:45:22 - Ошибка в SQL запросе: SELECT * FROM information_schema.KEY_COLUMN_USAGE
+                  WHERE TABLE_SCHEMA = 'im' AND TABLE_NAME = 'articles'
+                  CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'CONSTRAINT_NAME <> 'PRIMARY' AND REFERENCED_TABLE_NAME is not null' at line 3
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 21:46:16 - Ошибка в SQL запросе: INSERT INTO teachers (name,img) VALUES ('Masha','1.jpg') - 1054 Unknown column 'name' in 'field list'
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 23:37:26 - Ошибка в SQL запросе: INSERT INTO teachers ((name,img)) VALUES ((NULL,NULL),(NULL,NULL)) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(name,img)) VALUES ((NULL,NULL),(NULL,NULL))' at line 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 23:48:18 - Ошибка в SQL запросе: INSERT INTO teachers ((name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg')) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg'))' at line 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 23:49:14 - Ошибка в SQL запросе: INSERT INTO teachers (name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg')) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES (('Lena','2.jpg'),('Natalia','3.jpg'))' at line 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 23:49:56 - Ошибка в SQL запросе: INSERT INTO teachers (name,img,) VALUES (('Lena','2.jpg'),('Natalia','3.jpg')) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') VALUES (('Lena','2.jpg'),('Natalia','3.jpg'))' at line 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 23:51:05 - Ошибка в SQL запросе: INSERT INTO teachers ((name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg')) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg'))' at line 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:14-03-2020 23:51:25 - Ошибка в SQL запросе: INSERT INTO teachers ((name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg')) - 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(name,img)) VALUES (('Lena','2.jpg'),('Natalia','3.jpg'))' at line 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:15-03-2020 0:01:36 - Ошибка в SQL запросе: INSERT INTO teachers (name,img,menu_position) VALUES ('Lena','2.jpg','1'),('Natalia','3.jpg',NULL,NULL) - 1136 Column count doesn't match value count at row 2
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:15-03-2020 0:06:19 - Ошибка в SQL запросе: INSERT INTO teachers (name,menu_position) VALUES (NULL,NULL,'1.jpg') - 1136 Column count doesn't match value count at row 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:15-03-2020 0:07:48 - Ошибка в SQL запросе: INSERT INTO teachers (name,menu_position) VALUES (NULL,NULL,'1.jpg') - 1136 Column count doesn't match value count at row 1
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
+Fault:12-04-2020 13:55:01 - Ошибка в SQL запросе: INSERT INTO parsing_table (all_links,temp_links) VALUES ('','') - 1146 Table 'im.parsing_table' doesn't exist
+file W:\domains\im.my\core\base\model\BaseModel.php
+In line 45
+
